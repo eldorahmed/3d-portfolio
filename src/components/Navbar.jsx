@@ -25,9 +25,9 @@ const Navbar = () => {
           id="link"
             src={logo}
             alt="logo"
-            className="w-16 h-16 hover:cursor-pointer object-contain transition hover:scale-105 hover:-rotate-6"
+            className="w-16 h-16 object-contain transition hover:scale-105 hover:-rotate-6"
           />
-          <p className="text-secondary text-[18px] font-bold hover:cursor-pointer hover:text-white">
+          <p className="text-secondary text-[18px] font-bold hover:text-white">
             Eldorbek Akhmedov
           </p>
         </Link>
