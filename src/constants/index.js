@@ -186,7 +186,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Products List",
+    name: "Login Page (8-dars)",
     description:
       "",
     tags: [
