@@ -1,4 +1,5 @@
 import {
+  todo,
   mobile,
   backend,
   creator,
@@ -185,6 +186,28 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "To Do App",
+    description:
+      "",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: todo,
+    source_code_link_vercel: "https://7-dars-raect.vercel.app/?index",
+    source_code_link_github: "https://github.com/eldorahmed/7-dars-raect",
+  },
   {
     name: "Login Page (8-dars)",
     description:

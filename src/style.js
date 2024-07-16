@@ -12,6 +12,7 @@ const styles = {
       "text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]",
     sectionSubText:
       "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
+      container:"container max-w-[1280px] mx-auto my-0",
   };
   
   export { styles };
