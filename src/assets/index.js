@@ -31,8 +31,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import todo from "./todo.png"
+import recipe from "./recipe.png"
 
 export {
+  recipe,
   todo,
   logo,
   backend,

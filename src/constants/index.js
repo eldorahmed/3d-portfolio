@@ -1,4 +1,5 @@
 import {
+  recipe,
   todo,
   mobile,
   backend,
@@ -186,6 +187,28 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Recipe Finder",
+    description:
+      "",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: recipe,
+    source_code_link_vercel: "https://food-recipes-nu-ten.vercel.app/",
+    source_code_link_github: "https://github.com/eldorahmed/food-recipes",
+  },
   {
     name: "To Do App",
     description:
